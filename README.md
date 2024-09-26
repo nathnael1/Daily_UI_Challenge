@@ -9,4 +9,6 @@ This repo contains 50 days of Daily UI Challenge
    https://www.figma.com/design/xzzt25J4NX3YtzT76O5UmG/Mockup?node-id=0-1&t=tIa3iZWiJLAagZYh-1
 4. Calculator
    https://www.figma.com/design/qjZvwK4nDNLWweuMI95Rrz/MockUp?node-id=0-1&t=oQAcvlsS27NAoseH-1
+5. AppICON
+   https://www.figma.com/design/wIq5EDUdvsUywUjtXtkdcF/Untitled?node-id=0-1&t=UAf6LZQtH6P4JolH-1
      
