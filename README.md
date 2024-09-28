@@ -11,4 +11,5 @@ This repo contains 50 days of Daily UI Challenge
    https://www.figma.com/design/qjZvwK4nDNLWweuMI95Rrz/MockUp?node-id=0-1&t=oQAcvlsS27NAoseH-1
 5. AppICON
    https://www.figma.com/design/wIq5EDUdvsUywUjtXtkdcF/Untitled?node-id=0-1&t=UAf6LZQtH6P4JolH-1
-     
+6. CaseStudy
+   https://docs.google.com/presentation/d/1DTkpxkwDii4r7SVqQwyQIjvY3hfhVNJj0ePGC_c1b40/edit?usp=sharing
