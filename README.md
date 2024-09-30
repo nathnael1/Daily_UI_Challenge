@@ -7,3 +7,4 @@
 5. AppICON https://www.figma.com/design/wIq5EDUdvsUywUjtXtkdcF/Untitled?node-id=0-1&t=UAf6LZQtH6P4JolH-1
 6. Profile https://www.figma.com/design/6q8cm6ecXROebXwOdEnrNJ/MockUP?node-id=0-1&t=x9cDXLsbo7BSFgpn-1
 7. Setting https://www.figma.com/design/KA1yInkRjIqWvMoMsB12fn/Mockup?node-id=0-1&t=Ys2SwXUqlOGay3BK-1
+8. 404 https://www.figma.com/design/iWl9OY0Seyf1uw3IeGOrW8/MockUp?node-id=0-1&t=GnEMRiqnbWSLpiU7-1
