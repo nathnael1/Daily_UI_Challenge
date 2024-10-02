@@ -9,3 +9,4 @@
 7. Setting https://www.figma.com/design/KA1yInkRjIqWvMoMsB12fn/Mockup?node-id=0-1&t=Ys2SwXUqlOGay3BK-1
 8. 404 https://www.figma.com/design/iWl9OY0Seyf1uw3IeGOrW8/MockUp?node-id=0-1&t=GnEMRiqnbWSLpiU7-1
 9. Music Player https://www.figma.com/design/dUj8CjDMhWt5QUkDXeDagI/MockUp?node-id=0-1&t=XT3nCWnRtn63We1s-1
+10. Social Share https://www.figma.com/design/1Q7gR5KQ7UPlJhS81bBeTK/icon?node-id=0-1&t=dL53EIVOB2Azh4mC-1
