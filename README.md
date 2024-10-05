@@ -12,3 +12,4 @@
 10. Social Share https://www.figma.com/design/1Q7gR5KQ7UPlJhS81bBeTK/icon?node-id=0-1&t=dL53EIVOB2Azh4mC-1
 11. Flash message https://www.figma.com/design/mnDoUtN1DnG0tC4PLDPqeU/Flash-message?node-id=0-1&t=pvrXh51zhB0Igf1Y-1
 12. ecommerce https://www.figma.com/design/oALolbcA9IVUi5dqIK2QGk/Mockup?node-id=0-1&t=haPEduch8LfUcWKE-1
+13. DM https://www.figma.com/proto/xvZOt4hLmFcFdYnF3tiPLZ/Mockup?page-id=0%3A1&node-id=1-1462&node-type=canvas&viewport=611%2C618%2C0.84&t=xbkQE2aAwrngO4mT-1&scaling=scale-down&content-scaling=fixed
