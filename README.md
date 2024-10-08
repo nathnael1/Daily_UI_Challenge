@@ -15,3 +15,4 @@
 13. DM https://www.figma.com/proto/xvZOt4hLmFcFdYnF3tiPLZ/Mockup?page-id=0%3A1&node-id=1-1462&node-type=canvas&viewport=611%2C618%2C0.84&t=xbkQE2aAwrngO4mT-1&scaling=scale-down&content-scaling=fixed
 14. TIMER https://www.figma.com/proto/D9PZwo76A5gIaSj1HcOYvO/Mockup?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=149%2C272%2C0.58&t=KBzdSS6HDPLAgTtx-1&scaling=scale-down&content-scaling=fixed
 15. On/Off Switch  https://www.figma.com/proto/mYIutZoLEn6IRdCe0W0ocj/MOCKUP?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=455%2C471%2C0.65&t=C5jcMWdmWebfQCHd-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A76
+16. https://www.figma.com/proto/5x4POb5uiXgHqKYBwrEne1/mockup?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=452%2C331%2C1.2&t=0dpOvYl91hsfRayt-1&scaling=min-zoom&content-scaling=fixed
