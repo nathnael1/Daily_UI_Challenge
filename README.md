@@ -18,3 +18,4 @@
 16. pop up https://www.figma.com/proto/5x4POb5uiXgHqKYBwrEne1/mockup?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=452%2C331%2C1.2&t=0dpOvYl91hsfRayt-1&scaling=min-zoom&content-scaling=fixed
 17. Reciept https://www.figma.com/proto/ikBtDU9TtKxLRUJjQTSFEy/mockup?page-id=0%3A1&node-id=1-2&node-type=frame&viewport=-2%2C362%2C2.78&t=mqgb8izZu0i9mxJx-1&scaling=min-zoom&content-scaling=fixed
 18. Analytics chart https://www.figma.com/proto/flbHK1OuyXBeS77zCqwuII/Mockup?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=432%2C236%2C0.55&t=TiGZACF0uYcJWi2B-1&scaling=scale-down&content-scaling=fixed
+19. leadership https://www.figma.com/design/h3no5Ta25O2cjXlrDWD5Mc/Mockup?node-id=0-1&t=ue7Mrs66n2QIIiJh-1
