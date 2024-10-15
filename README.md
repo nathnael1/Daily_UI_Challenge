@@ -23,3 +23,4 @@
 21. Home monitroing Dashboard https://www.figma.com/proto/tfqY3lpjDhavX467wR64k9/Mockup?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=58%2C282%2C0.78&t=poWhgod06gDcfHWS-1&scaling=scale-down&content-scaling=fixed
 22. search https://www.figma.com/design/xgW8sxZGDwz7TVbPVIxoQT/Search?node-id=0-1&t=F2CdDtxvy0BfNLDh-1
 23. onboarding https://www.figma.com/proto/nbsV5c1tWEut3qsbD5bFGv/mockup?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=210%2C299%2C0.64&t=BpkCMhO4Hvc59Rc3-1&scaling=scale-down&content-scaling=fixed
+24. boarding pass https://www.figma.com/proto/XQ0H1tDUiijVFlVs7MWwOv/mockup?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=429%2C370%2C0.6&t=m3ZTp7jmZoEowKRs-1&scaling=scale-down&content-scaling=fixed
