@@ -25,3 +25,4 @@
 23. onboarding https://www.figma.com/proto/nbsV5c1tWEut3qsbD5bFGv/mockup?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=210%2C299%2C0.64&t=BpkCMhO4Hvc59Rc3-1&scaling=scale-down&content-scaling=fixed
 24. boarding pass https://www.figma.com/proto/XQ0H1tDUiijVFlVs7MWwOv/mockup?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=429%2C370%2C0.6&t=m3ZTp7jmZoEowKRs-1&scaling=scale-down&content-scaling=fixed
 25. tv app https://www.figma.com/proto/R4J4Kb62woOZKRc0MEoy6S/tvapp?page-id=0%3A1&node-id=2-2&node-type=canvas&viewport=422%2C432%2C0.42&t=rwOehDx1mlHYohZ6-1&scaling=scale-down&content-scaling=fixed
+26. subscribe https://www.figma.com/design/zjvVcb2rohRFQRXgBl8b3t/Untitled?node-id=0-1&t=DLRDNiS9FE8AuUNR-1
