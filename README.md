@@ -28,3 +28,4 @@
 26. subscribe https://www.figma.com/design/zjvVcb2rohRFQRXgBl8b3t/Untitled?node-id=0-1&t=DLRDNiS9FE8AuUNR-1
 27. dropdown https://www.figma.com/design/HOKEcTcplu6QHQ6Bm7a9dB/mockup?node-id=0-1&t=mSN4OI8PFy7pejbR-1
 28. contact information https://www.figma.com/proto/5pyckWJm3pyJb6W9rCUyTS/contact_mockup?page-id=0%3A1&node-id=0-3&node-type=canvas&viewport=515%2C484%2C0.75&t=emJNsqnq6ps9ufLQ-1&scaling=scale-down&content-scaling=fixed
+29. map design https://www.figma.com/design/RR892GJh9AvWGg916fKp7E/mockup?node-id=0-1&t=ghZX4bS5pMh7nex0-1
