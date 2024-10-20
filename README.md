@@ -27,3 +27,4 @@
 25. tv app https://www.figma.com/proto/R4J4Kb62woOZKRc0MEoy6S/tvapp?page-id=0%3A1&node-id=2-2&node-type=canvas&viewport=422%2C432%2C0.42&t=rwOehDx1mlHYohZ6-1&scaling=scale-down&content-scaling=fixed
 26. subscribe https://www.figma.com/design/zjvVcb2rohRFQRXgBl8b3t/Untitled?node-id=0-1&t=DLRDNiS9FE8AuUNR-1
 27. dropdown https://www.figma.com/design/HOKEcTcplu6QHQ6Bm7a9dB/mockup?node-id=0-1&t=mSN4OI8PFy7pejbR-1
+28. contact information https://www.figma.com/proto/5pyckWJm3pyJb6W9rCUyTS/contact_mockup?page-id=0%3A1&node-id=0-3&node-type=canvas&viewport=515%2C484%2C0.75&t=emJNsqnq6ps9ufLQ-1&scaling=scale-down&content-scaling=fixed
