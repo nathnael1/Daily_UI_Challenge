@@ -30,3 +30,4 @@
 28. contact information https://www.figma.com/proto/5pyckWJm3pyJb6W9rCUyTS/contact_mockup?page-id=0%3A1&node-id=0-3&node-type=canvas&viewport=515%2C484%2C0.75&t=emJNsqnq6ps9ufLQ-1&scaling=scale-down&content-scaling=fixed
 29. map design https://www.figma.com/design/RR892GJh9AvWGg916fKp7E/mockup?node-id=0-1&t=ghZX4bS5pMh7nex0-1
 30. pricing https://www.figma.com/design/NKdMRoZ2KoyM1xyQkTCYst/Untitled?node-id=0-1&t=OKDengzYK2I6FZXy-1
+31. file uploaded https://www.figma.com/proto/l8Swd9zB9zQRkizz1mGhVW/Mockup?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=105%2C247%2C0.69&t=vK3aAjgdCWPTrkuD-1&scaling=min-zoom&content-scaling=fixed
